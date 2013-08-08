@@ -1,0 +1,12 @@
+== Code Fellows Assignment: Action Mailer
+
+Features:
+Create a ticket.
+Add email sending and receiving capability.
+
+3rd Parties:
+For sending, I'm using Sendgrid.
+For receiving, I'm using Postmark.
+
+
+
