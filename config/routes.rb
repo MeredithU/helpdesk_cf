@@ -6,6 +6,7 @@ HelpdeskCf::Application.routes.draw do
   root :to => "tickets#index"
 
   resources :tickets
+  resources :sessions
 
 
   # The priority is based upon order of creation:
