@@ -15,7 +15,7 @@ Features:
 
 == Sign-in Screenshot
 
-![Screenshot](../assets/images/sign_in_screenshot.png)
+![screenshot](assets/images/sign_in_screenshot.png)
 
 
 
