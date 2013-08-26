@@ -1,11 +1,11 @@
-Code Fellows Assignment: OAuth
+# Code Fellows Assignment: OAuth
 
-Features:
+## Features:
 - Can sign in using Facebook.
 - Create a ticket.
 - Add email sending and receiving capability.
 
-Set Up
+## Set Up
 
 1) bundle install
 
@@ -13,7 +13,7 @@ Set Up
 
 3) Have fun!
 
-Sign-in Screenshot
+## Sign-in Screenshot
 
 ![screenshot](../assets/images/sign_in_screenshot.png)
 
