@@ -1,4 +1,4 @@
-== Code Fellows Assignment: OAuth
+Code Fellows Assignment: OAuth
 
 Features:
 - Can sign in using Facebook.
@@ -15,7 +15,7 @@ Features:
 
 == Sign-in Screenshot
 
-![screenshot](assets/images/sign_in_screenshot.png)
+![screenshot](../assets/images/sign_in_screenshot.png)
 
 
 
