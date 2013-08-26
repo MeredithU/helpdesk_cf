@@ -5,7 +5,7 @@ Features:
 - Create a ticket.
 - Add email sending and receiving capability.
 
-== Set Up
+Set Up
 
 1) bundle install
 
@@ -13,7 +13,7 @@ Features:
 
 3) Have fun!
 
-== Sign-in Screenshot
+Sign-in Screenshot
 
 ![screenshot](../assets/images/sign_in_screenshot.png)
 
